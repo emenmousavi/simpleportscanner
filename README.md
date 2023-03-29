@@ -9,3 +9,6 @@ The script also includes a timeout of 0.5 seconds for each connection attempt, u
 To run the script, simply clone the repository and run python port_scanner.py in your terminal. You will be prompted to enter a target IP address and a number of ports to scan.
 
 This script can be used for basic network reconnaissance and vulnerability assessment, and can help identify potential entry points for attackers. However, it should be used with caution and only on networks that you have permission to scan.
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/108234550/228676639-95a69d49-cfdd-4ce2-b991-60bb6dfefe87.png)
